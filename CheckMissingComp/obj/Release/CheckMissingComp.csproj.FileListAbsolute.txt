@@ -1,0 +1,6 @@
+C:\Project\CheckMissingComp\CheckMissingComp\CheckMissingComp\bin\Release\CheckMissingComp.exe.config
+C:\Project\CheckMissingComp\CheckMissingComp\CheckMissingComp\bin\Release\CheckMissingComp.exe
+C:\Project\CheckMissingComp\CheckMissingComp\CheckMissingComp\bin\Release\CheckMissingComp.pdb
+C:\Project\CheckMissingComp\CheckMissingComp\CheckMissingComp\obj\Release\CheckMissingComp.exe
+C:\Project\CheckMissingComp\CheckMissingComp\CheckMissingComp\obj\Release\CheckMissingComp.pdb
+C:\Project\CheckMissingComp\CheckMissingComp\CheckMissingComp\obj\Release\CheckMissingComp.csprojResolveAssemblyReference.cache

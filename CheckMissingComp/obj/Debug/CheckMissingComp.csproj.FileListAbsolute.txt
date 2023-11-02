@@ -1,0 +1,12 @@
+C:\Project\CheckMissingComp\CheckMissingComp\CheckMissingComp\bin\Debug\CheckMissingComp.exe.config
+C:\Project\CheckMissingComp\CheckMissingComp\CheckMissingComp\bin\Debug\CheckMissingComp.exe
+C:\Project\CheckMissingComp\CheckMissingComp\CheckMissingComp\bin\Debug\CheckMissingComp.pdb
+C:\Project\CheckMissingComp\CheckMissingComp\CheckMissingComp\obj\Debug\CheckMissingComp.exe
+C:\Project\CheckMissingComp\CheckMissingComp\CheckMissingComp\obj\Debug\CheckMissingComp.pdb
+C:\Users\lichiasin\Documents\Project\CheckMissingComp\CheckMissingComp\bin\Debug\CheckMissingComp.exe.config
+C:\Users\lichiasin\Documents\Project\CheckMissingComp\CheckMissingComp\bin\Debug\CheckMissingComp.exe
+C:\Users\lichiasin\Documents\Project\CheckMissingComp\CheckMissingComp\bin\Debug\CheckMissingComp.pdb
+C:\Users\lichiasin\Documents\Project\CheckMissingComp\CheckMissingComp\obj\Debug\CheckMissingComp.csprojAssemblyReference.cache
+C:\Users\lichiasin\Documents\Project\CheckMissingComp\CheckMissingComp\obj\Debug\CheckMissingComp.csproj.CoreCompileInputs.cache
+C:\Users\lichiasin\Documents\Project\CheckMissingComp\CheckMissingComp\obj\Debug\CheckMissingComp.exe
+C:\Users\lichiasin\Documents\Project\CheckMissingComp\CheckMissingComp\obj\Debug\CheckMissingComp.pdb
